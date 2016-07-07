@@ -1,4 +1,5 @@
 # NTLM-REST
+See "RAW" view 
 <proxy xmlns="http://ws.apache.org/ns/synapse"
        name="NTLMProxyGET"
        transports="https,http"
