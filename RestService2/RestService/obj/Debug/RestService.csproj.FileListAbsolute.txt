@@ -1,0 +1,6 @@
+C:\workspace\RestService2\RestService\bin\RestService.dll.config
+C:\workspace\RestService2\RestService\bin\RestService.dll
+C:\workspace\RestService2\RestService\bin\RestService.pdb
+C:\workspace\RestService2\RestService\obj\Debug\RestService.dll
+C:\workspace\RestService2\RestService\obj\Debug\RestService.pdb
+C:\workspace\RestService2\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
